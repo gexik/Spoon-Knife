@@ -8,6 +8,7 @@ After forking this repository, you can make some changes to the project, and sub
 
 For some more information on how to fork a repository, [check out our guide, "Forking Projects""](http://guides.github.com/overviews/forking/). Thanks! :sparkling_heart:
 <<<<<<< HEAD
+<<<<<<< HEAD
 
 
 
@@ -20,3 +21,5 @@ Another One
 =======
 TEST!!! GEX
 >>>>>>> parent of 9dafd10... Another one
+=======
+>>>>>>> parent of f8c0ed6... GeX Test Commit
