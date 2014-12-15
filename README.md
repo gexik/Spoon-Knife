@@ -11,8 +11,12 @@ For some more information on how to fork a repository, [check out our guide, "Fo
 
 
 
+<<<<<<< HEAD
 TEST!!! GEX
 
 Another One
 =======
 >>>>>>> parent of f8c0ed6... GeX Test Commit
+=======
+TEST!!! GEX
+>>>>>>> parent of 9dafd10... Another one
